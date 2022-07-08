@@ -44,12 +44,25 @@ Angular
 Oracle
 Spring Data JPA
 HTML5
-CSS3![5](https://user-images.githubusercontent.com/108823909/177981541-a422b33f-7379-442c-808f-f2a6ed9884a4.PNG)
+CSS3
+JSP Servlet.
 
-JSP Servlet
+![5](https://user-images.githubusercontent.com/108823909/177981541-a422b33f-7379-442c-808f-f2a6ed9884a4.PNG)
+
+![image](https://user-images.githubusercontent.com/108823909/177982686-10db9cb2-8741-44bf-b6af-e9c00d3d480b.png)
+
+![image](https://user-images.githubusercontent.com/108823909/177982779-bf3e0fde-ecd0-4b54-a0fd-26864d4d10b6.png)
+
+![image](https://user-images.githubusercontent.com/108823909/177982808-931c9193-d790-4018-81fe-d885e5c0c1a6.png)
+
+![image](https://user-images.githubusercontent.com/108823909/177982896-5d94c2fc-3de9-4dbd-95bd-7ff945d305da.png)
+
+
 
 Images of Application:
+
 1.Home Page
+
 ![1](https://user-images.githubusercontent.com/108823909/177980932-8ac74c79-2d28-40d8-ab27-d5b91f38629b.PNG)
 
 ![3](https://user-images.githubusercontent.com/108823909/177980958-d5756a6a-8782-4eb0-bbf7-ebf4799cd96c.PNG)
@@ -59,16 +72,21 @@ Images of Application:
 ![5](https://user-images.githubusercontent.com/108823909/177981563-97297385-b12f-47f7-9848-5ff706a11474.PNG)
 
 3.Our Products.
+
 ![6](https://user-images.githubusercontent.com/108823909/177981634-4e86565a-aa0e-4321-9d52-753d2831c8b4.PNG)
+
 ![7](https://user-images.githubusercontent.com/108823909/177981643-e429ff0b-2a87-4be8-aadf-450d8cdd70a3.PNG)
 
 4.My Cart.
+
 ![8](https://user-images.githubusercontent.com/108823909/177981726-3a9013fd-0de1-4c8b-bd3d-1e14a83fcdf2.PNG)
 
 5.User Order Page.
+
 ![9](https://user-images.githubusercontent.com/108823909/177981807-4540e63b-8227-4c55-94e8-cab6f9fda3d6.PNG)
 
 6.Admin Portal.
+
 ![10](https://user-images.githubusercontent.com/108823909/177981917-b46d06be-ec1a-445d-b139-b63ec79a8d59.PNG)
 
 
