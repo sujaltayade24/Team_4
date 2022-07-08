@@ -47,7 +47,7 @@ HTML5
 CSS3
 JSP Servlet.
 
-![5](https://user-images.githubusercontent.com/108823909/177981541-a422b33f-7379-442c-808f-f2a6ed9884a4.PNG)
+
 
 ![image](https://user-images.githubusercontent.com/108823909/177982686-10db9cb2-8741-44bf-b6af-e9c00d3d480b.png)
 
