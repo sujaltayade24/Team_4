@@ -4,7 +4,7 @@ Members:- Sujal Tayade
           Ankit Bhowmick
           Anmol Kumar
           Siddharth Kumar
-          Raquib Khan
+          Raquib jamal Khan
           
 
 Team-4-Online-Electronic-Shop-Management.
